@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arturo Ruiz</h1>
-<h3 align="center">In this repository you will find, my clone of the ubuntu logo made with Htm + Css</h3>
+<h3 align="center">In this repository you will find, my clone of the ubuntu logo made with love 💙 in HTML + CSS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arturo-ruiz&label=Profile%20views&color=0e75b6&style=flat" alt="arturo-ruiz" /> </p>
 
